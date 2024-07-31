@@ -20,7 +20,7 @@ class TestingController extends Controller
 
     public function table()
     {
-        $users = User::orderBy('name', 'asc');
+        $users = User::all();
         // dd($users);
         return DataTables::of($users)
             ->addIndexColumn()

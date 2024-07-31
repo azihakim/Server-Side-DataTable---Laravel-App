@@ -17,9 +17,10 @@
         <table class="table" id="tableDT">
             <thead>
                 <tr>
-                    <td>name</td>
-                    <td>email</td>
-                    <td>action</td>
+                    <td>No</td>
+                    <td>Nama</td>
+                    <td>Email</td>
+                    <td>aksi</td>
                 </tr>
             </thead>
             <tbody>
